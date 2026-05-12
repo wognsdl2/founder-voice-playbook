@@ -21,7 +21,7 @@ Output:
 
 Built for founders who shipped the product but still need people to understand why it matters.
 
-SagaPad skill link: [add after publish]
+SagaPad skill link: https://sagapad.com/skills/founder-voice-playbook
 GitHub: https://github.com/wognsdl2/founder-voice-playbook
 
 @sagapad_icm @SuperteamEarn
